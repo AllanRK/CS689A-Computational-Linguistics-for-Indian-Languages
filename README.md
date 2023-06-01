@@ -1,9 +1,9 @@
 # CS689A-Computational-Linguistics-for-Indian-Languages
-This GitHub repository contains the solutions for the two assignments completed during the Autumn 2022 semester for the  CS689A-Computational Linguistics for Indian Languagescourse.
+This GitHub repository contains the solutions for the two assignments completed during the Autumn 2022 semester for the  CS689A-Computational Linguistics for Indian Languages course.
 
 ## Assignments
 
-The repository consists of the following five assignments:
+The repository consists of the following two assignments:
 
 1. 22111007_assignment 1
    - This folder contains the solution for Assignment 1.
